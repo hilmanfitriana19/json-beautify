@@ -60,7 +60,7 @@ function App() {
           </p>
         </header>
 
-        <div className="grid lg:grid-cols-2 gap-4 sm:gap-6 h-[calc(100vh-200px)] min-h-[500px]">
+        <div className="grid lg:grid-cols-2 gap-4 sm:gap-6 h-[calc(96vh-200px)] min-h-[500px]">
           {/* Input Section */}
           <div className="bg-white rounded-lg shadow-lg p-4 flex flex-col h-full">
             <div className="flex justify-between items-center mb-3">
